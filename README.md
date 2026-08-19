@@ -14,18 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi 👋, I'm Nisha Sardar
+# Hi 👋
+### I'm Nisha Sardar
 
-## Building the web after dark. Understanding it by dawn.
+## 💻 Dev | 📍 Kolkata | ☕ Powered by Chai
 💫 About Me
 
-- 🌍 Based in Kolkata, India — coding with chai ☕ and the city's creative energy
-
 - 🔭 I'm currently working on **Backend architecture, database design, and system scalability**
-
 - 🌱 I'm currently learning **devOps & development**
 - 🛠️ Exploring the Cloud Deployment
-
 - 📫 How to reach me **missnishasardar@gmail.com**
 
 🧠 Meme Tech Stack
