@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # Hi 👋
 ### I'm Nisha Sardar
 
-## 💻 Dev | 📍 Kolkata | ☕ Powered by Chai
+## 💻 Dev | 📍 Kolkata, India 
 💫 About Me
 
 - 🔭 I'm currently working on **Backend architecture, database design, and system scalability**
@@ -27,17 +27,7 @@ Here are some ideas to get you started:
 
 🧠 Meme Tech Stack
 
-The real tools behind every successful deploy:
-
-- ☕ Coffee.js — Primary runtime for late-night debugging
-- 🤖 Driven Development — My pair programmer who never sleeps
-- 📋 Stack Overflow Copy-Paste — Certified professional skill
-- 🧪 Trial & Error — The original agile methodology
-- 🌙 Vibe Coding — If it feels right, ship it
-- 🏠 "It works on my machine" — The ultimate QA excuse
 - 🚀 git push --force — Because why not live dangerously?
-- 🌑 Dark Mode Everything — My eyes have never seen the light
-- 🎯 "It was working yesterday" — The developer's mantra
 
 
 
